@@ -1,0 +1,34 @@
+{
+    "morning": [
+        "Rise and shine! 🌅 Your today's class is waiting for you.",
+        "Good morning! ☕ A little progress each day adds up to big results.",
+        "Morning! 🚀 Let's kickstart your learning journey today.",
+        "Wake up to new possibilities! 📚 Open Courseify and continue your learning.",
+        "The early bird catches the... knowledge! 🦉 Dive into your first lesson.",
+        "Fresh day, fresh mind! 🧠 Perfect time to tackle that difficult concept."
+    ],
+    "afternoon": [
+        "Mid-day check-in! ☀️ Time for a quick learning session?",
+        "Lunch break? 🥗 How about a quick 5-min video lesson?",
+        "Keep the momentum going! 🔥 Your next module is just a tap away.",
+        "Afternoon slump? ⚡ Recharge with an inspiring new class!",
+        "Beat the 2 PM crash! ☕ Learn something new instead of scrolling.",
+        "Halfway through the day! 🏁 You're doing great, keep learning."
+    ],
+    "evening": [
+        "Good evening! 🌙 Reflect on your day with a quick lesson.",
+        "Wind down with some learning. 📖 You're doing great!",
+        "It's never too late in the day to learn something new. 💡",
+        "End the day strong! 💪 Please continue your learning now.",
+        "Swap that movie for a masterclass tonight! 🍿 Your brain will thank you.",
+        "Night owl? 🦉 The best time to focus is when the world is quiet."
+    ],
+    "dynamic": [
+        "Hey! Around this time yesterday you were learning so well. 🎯 Let's do it again!",
+        "Time flies! ⏰ Keep up the consistency and open your class.",
+        "We noticed you love learning around now. 🧠 Tap here for today's class!",
+        "Your brain is primed and ready! 🔥 Jump back in exactly where you left off.",
+        "Missed us? We missed you! 👋 Pick up your course right now.",
+        "Consistency is the secret sauce! 🥫 Keep your streak alive."
+    ]
+}
